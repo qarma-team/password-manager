@@ -1,6 +1,5 @@
 package qarma;
 
-import java.util.Objects;
 
 public class Entry {
     private String username;
