@@ -2,5 +2,5 @@ package qarma.security;
 
 public class BreachChecker {
 
-    public check(password)
+    // public check(password)
 }
