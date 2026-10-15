@@ -1,4 +1,4 @@
-# qarma: a command-line password manager in Java
+# a command-line password manager in Java
 
 a small, local password manager that runs in the terminal; stores logins in a single encrypted file protected by one master password, and can generate strong random passwords.
 
